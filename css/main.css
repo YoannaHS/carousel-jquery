@@ -1,5 +1,8 @@
 * {
+    margin: 0;
+    padding: 0;
     background-color: #db1b55;
+    text-align: center;
 }
 
 h1 {
@@ -36,4 +39,8 @@ img {
 .control:hover, .previous:hover, .next:hover {
     background: #e2e4e6;
     border: 1px solid purple;
+}
+
+a {
+    text-decoration: none;
 }
